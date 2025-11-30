@@ -37,7 +37,7 @@ It supports both **manual input** and **CSV file input**, making it useful for t
 - Exception handling  
 - Formatted string printing (f-strings)  
 ##Images of output
-<img width="1919" height="1077" alt="Screenshot 2025-11-05 013105" src="https://github.com/user-attachments/assets/e28af50a-1a8c-4336-b006-d31a4ae1ec11" />
+
   
 
 
