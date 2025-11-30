@@ -41,6 +41,6 @@ It supports both **manual input** and **CSV file input**, making it useful for t
   
 
 
-<img width="1461" height="1017" alt="Screenshot 2025-11-05 013128" src="https://github.com/user-attachments/assets/7c916d9d-8a87-41ae-bc9d-3ddb9030ab1f" />
+
 
 ----------
