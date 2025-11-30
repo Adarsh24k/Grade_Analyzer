@@ -1,7 +1,7 @@
 # 🎓 GradeBook Analyzer – Python Mini Project
 
 ### 📌 Course: Programming for Problem Solving using Python  
-### 👨‍🎓 Student: Nishant Kumar  
+### 👨‍🎓 Student: Adarsh Anand 
 ### 📅 Year: 2025  
 
 ---
